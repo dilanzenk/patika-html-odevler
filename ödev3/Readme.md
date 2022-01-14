@@ -1,1 +1,0 @@
-< Filmler hakkında bilgi verildi.>
